@@ -1,0 +1,9 @@
+{
+  "name": "nodejs-methods",
+  "lockfileVersion": 3,
+  "requires": true,
+  "packages": {},
+  "scripts": {
+    "start": "node criandoServidor.js"
+  }
+}
